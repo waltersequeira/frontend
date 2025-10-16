@@ -1,11 +1,12 @@
+import Contador from "../components/Contador";
 
 const Inicio = () => {
-
    return(
-    <>
-       <h2>Pagina de Inicio</h2>
-    </>
+      <>
+      
+      <Contador></Contador>
+
+      </>
    );
 }
-
 export default Inicio;
