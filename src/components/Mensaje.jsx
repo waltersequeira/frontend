@@ -1,14 +1,13 @@
-import React from 'react';
+import React from "react";
 
 const Mensaje = () => {
-
-    return(
+    return (
         <>
-          <h1>Programar con React es tuani por:</h1>
-          <h2> 1- asaber </h2>
-          <h3> 2- vos crres? </h3>
-          <h4> 3- nel pastel </h4>
-        </>
+        <h1>Programar en react es tuani por:</h1>
+        <h2>  1- es divertido  </h2>
+        <h2>  2- lorem ipsum </h2>
+        <h2>  3- nel pastel </h2>
+       </>
     );
 };
 
